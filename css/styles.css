@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+    margin: 0%;
+    padding: 0;
+    background-color: darkslategray;
+}
+
+container{
+  height: 100vh;
+  width: 100%;
+
+}
+header{
+  background-color: aqua;
+}
+
+nav{
+  background-color: rgb(166, 115, 214);
+}
+
+section{
+  background-color:rgb(109, 236, 140);
+}
+
+article{
+  background-color: rgb(28, 106, 151);
+}
+
+aside{
+  background-color: rgb(103, 236, 136);
+}
+
+footer{
+  background-color: rgb(43, 119, 155);
+}
+
+.altura1{
+  height: 10vh;
+}
+.altura2{
+  height: 10vh;
+}
+.altura3{
+  height:70vh;
+}
+
+
